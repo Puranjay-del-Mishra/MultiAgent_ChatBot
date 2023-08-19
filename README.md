@@ -5,10 +5,9 @@ Overview
 
 This project showcases the implementation of a multi-agent conversational chatbot system using Python and the OpenAI API. The chatbot employs a trio of agents, each with distinct responsibilities: convincing the user to share information, extracting user details, and adding structured tags.
 
-Features
-
-    Real-time interactive chat-like experience.
-    Intelligent Agent 1 engages users in a convincing dialogue to encourage information sharing.
-    Agent 2 adeptly extracts crucial user data, such as name and date of birth.
-    Agent 3 tags the extracted data and adds structured metadata.
+Features-
+1) Real-time interactive chat-like experience.
+2) Intelligent Agent 1 engages users in a convincing dialogue to encourage information sharing.
+3) Agent 2 adeptly extracts crucial user data, such as name and date of birth.
+4) Agent 3 tags the extracted data and adds structured metadata.
 
